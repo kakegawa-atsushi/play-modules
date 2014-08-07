@@ -1,0 +1,6 @@
+[submodule "modules/batch"]
+	path = modules/batch
+	url = git://github.com/kakegawa-atsushi/batch.git
+[submodule "modules/core"]
+	path = modules/core
+	url = git://github.com/kakegawa-atsushi/core.git
